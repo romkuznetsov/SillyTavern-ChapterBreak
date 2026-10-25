@@ -1,0 +1,11 @@
+{
+    "display_name": "Новая глава (ChapterBreak)",
+    "loading_order": 200,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Roman Kuznetsov",
+    "version": "1.0.0",
+    "homePage": "https://github.com/romkuznetsov/SillyTavern-ChapterBreak"
+}
